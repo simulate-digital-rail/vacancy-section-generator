@@ -32,13 +32,13 @@ pyproj = "^3.4.1"
 [package.source]
 type = "git"
 url = "https://github.com/simulate-digital-rail/yaramo"
-reference = "add-vacancy-section"
-resolved_reference = "515b9cf9077d3bf0f51731860037ff03597744ad"
+reference = "HEAD"
+resolved_reference = "a6f1d215de89a5ae94ea7b8b4af654935f982cd0"
 
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "1e08d1cf573ba04e6197742aa6812f7aed85410b79ffe20e4f5c9349c5919d4f"
+content-hash = "682e312d63be3ba3dbbd7650cdf47cda9b4e11debf9f2f576c8dbba03dd41547"
 
 [metadata.files]
 certifi = [

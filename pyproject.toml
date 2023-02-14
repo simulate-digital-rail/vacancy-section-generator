@@ -8,7 +8,7 @@ packages = [{include = "vacancy_section_generator"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-yaramo = {git = "https://github.com/simulate-digital-rail/yaramo", rev = "add-vacancy-section"}
+yaramo = {git = "https://github.com/simulate-digital-rail/yaramo"}
 
 [build-system]
 requires = ["poetry-core"]
