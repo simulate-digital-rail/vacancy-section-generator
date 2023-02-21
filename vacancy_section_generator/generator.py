@@ -2,7 +2,7 @@ from yaramo.model import Topology
 from yaramo.vacancy_section import VacancySection
 
 class VacancySectionGenerator:
-    def __init__(self, topology: Topology) -> VacancySectionGenerator:
+    def __init__(self, topology: Topology) -> "VacancySectionGenerator":
         self.topology = topology
 
     def generate(self):
